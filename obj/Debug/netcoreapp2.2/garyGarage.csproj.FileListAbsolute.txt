@@ -1,0 +1,11 @@
+/Users/jamekaechols/workspace/csharp/garyGarage/obj/Debug/netcoreapp2.2/garyGarage.csprojAssemblyReference.cache
+/Users/jamekaechols/workspace/csharp/garyGarage/obj/Debug/netcoreapp2.2/garyGarage.csproj.CoreCompileInputs.cache
+/Users/jamekaechols/workspace/csharp/garyGarage/obj/Debug/netcoreapp2.2/garyGarage.AssemblyInfoInputs.cache
+/Users/jamekaechols/workspace/csharp/garyGarage/obj/Debug/netcoreapp2.2/garyGarage.AssemblyInfo.cs
+/Users/jamekaechols/workspace/csharp/garyGarage/bin/Debug/netcoreapp2.2/garyGarage.deps.json
+/Users/jamekaechols/workspace/csharp/garyGarage/bin/Debug/netcoreapp2.2/garyGarage.runtimeconfig.json
+/Users/jamekaechols/workspace/csharp/garyGarage/bin/Debug/netcoreapp2.2/garyGarage.runtimeconfig.dev.json
+/Users/jamekaechols/workspace/csharp/garyGarage/bin/Debug/netcoreapp2.2/garyGarage.dll
+/Users/jamekaechols/workspace/csharp/garyGarage/bin/Debug/netcoreapp2.2/garyGarage.pdb
+/Users/jamekaechols/workspace/csharp/garyGarage/obj/Debug/netcoreapp2.2/garyGarage.dll
+/Users/jamekaechols/workspace/csharp/garyGarage/obj/Debug/netcoreapp2.2/garyGarage.pdb
